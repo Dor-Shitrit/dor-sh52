@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dor-sh52
+- 👋 Hi, I’m @Dor-Shitrit
 - 👀 I’m interested in chip design, OOP and solving intresting problems 
 - 🌱 I’m currently learning C, Python and VHDL 
 - 💞️ I’m looking to collaborate on intersting projects that solves real problems
